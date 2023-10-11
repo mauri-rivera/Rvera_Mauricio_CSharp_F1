@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Rvera_Mauricio_CSharp_F1/1.0.0": {
+        "runtime": {
+          "Rvera_Mauricio_CSharp_F1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rvera_Mauricio_CSharp_F1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
